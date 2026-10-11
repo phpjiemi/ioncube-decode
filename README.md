@@ -1,7 +1,7 @@
 # ioncube-decode
 ioncube decode
 
-please goto https://php.jiemi.xyz/en/ioncube-decoder  try it
+please goto https://php.jiemi.xyz/tryit/ioncube-decoder?lang=en  try it
 
 
 # encode
